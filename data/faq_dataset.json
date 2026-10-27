@@ -1,0 +1,122 @@
+[
+    {
+        "id": "faq-001",
+        "category": "Booking",
+        "question": "How do I book an ambulance?",
+        "answer": "Open the Care app, enter the pickup location, choose an available ambulance type, review the estimated arrival time and fare information, and confirm the request."
+    },
+    {
+        "id": "faq-002",
+        "category": "Booking",
+        "question": "Can I book an ambulance for someone else?",
+        "answer": "Yes. You can enter the pickup location and relevant contact details for the person who needs the ambulance."
+    },
+    {
+        "id": "faq-003",
+        "category": "Booking",
+        "question": "Can I schedule an ambulance in advance?",
+        "answer": "If scheduled booking is available for your location, you can select a future pickup date and time while creating the request."
+    },
+    {
+        "id": "faq-004",
+        "category": "Ambulance Types",
+        "question": "What types of ambulances are available?",
+        "answer": "Care may show different ambulance categories based on provider availability. Each option should include a short description so users can understand the service provided."
+    },
+    {
+        "id": "faq-005",
+        "category": "Ambulance Types",
+        "question": "How do I know which ambulance type to choose?",
+        "answer": "The app can explain the service level of each available ambulance type. The support assistant should not diagnose a medical condition or decide what medical treatment a patient requires."
+    },
+    {
+        "id": "faq-006",
+        "category": "Pricing",
+        "question": "How is the ambulance fare calculated?",
+        "answer": "The estimated fare may depend on factors such as ambulance type, travel distance, location, and provider pricing."
+    },
+    {
+        "id": "faq-007",
+        "category": "Pricing",
+        "question": "Can I see the estimated price before booking?",
+        "answer": "Yes. The Care app should display available pricing information or an estimated fare before you confirm the booking."
+    },
+    {
+        "id": "faq-008",
+        "category": "Pricing",
+        "question": "Can the final fare be different from the estimate?",
+        "answer": "The final fare may differ from the original estimate if trip conditions, distance, waiting time, or provider charges change."
+    },
+    {
+        "id": "faq-009",
+        "category": "Tracking",
+        "question": "Can I track the ambulance after booking?",
+        "answer": "If live tracking is available, the booking screen will show the ambulance location and booking status after a request has been confirmed."
+    },
+    {
+        "id": "faq-010",
+        "category": "Tracking",
+        "question": "Where can I see the ambulance ETA?",
+        "answer": "The estimated arrival time should appear on the booking or tracking screen once an ambulance has been assigned."
+    },
+    {
+        "id": "faq-011",
+        "category": "Booking",
+        "question": "What happens if no ambulance is available nearby?",
+        "answer": "The app should inform you when no suitable ambulance is currently available and provide appropriate alternatives or emergency-service guidance where applicable."
+    },
+    {
+        "id": "faq-012",
+        "category": "Cancellation",
+        "question": "Can I cancel an ambulance booking?",
+        "answer": "A booking may be cancelled from the active booking screen when cancellation is permitted. Any applicable cancellation terms should be shown before you confirm."
+    },
+    {
+        "id": "faq-013",
+        "category": "Cancellation",
+        "question": "Is there a cancellation fee?",
+        "answer": "Cancellation charges may depend on the booking status and provider policy. The app should display any applicable fee before the cancellation is confirmed."
+    },
+    {
+        "id": "faq-014",
+        "category": "Payment",
+        "question": "What payment methods are supported?",
+        "answer": "Available payment methods should be displayed during checkout and may include supported digital or other payment options depending on the provider."
+    },
+    {
+        "id": "faq-015",
+        "category": "Payment",
+        "question": "Can I pay the ambulance driver directly?",
+        "answer": "Direct payment availability depends on the selected ambulance provider and the payment options shown for that booking."
+    },
+    {
+        "id": "faq-016",
+        "category": "Coverage",
+        "question": "Which locations does Care currently support?",
+        "answer": "Care is being designed with an initial focus on Chennai and Tamil Nadu. Actual service availability depends on participating ambulance providers."
+    },
+    {
+        "id": "faq-017",
+        "category": "Account",
+        "question": "Do I need an account to book an ambulance?",
+        "answer": "The booking experience should clearly indicate whether sign-in or basic contact information is required before confirming a request."
+    },
+    {
+        "id": "faq-018",
+        "category": "Support",
+        "question": "What should I do if my ambulance is delayed?",
+        "answer": "Check the live booking status and updated ETA first. If the delay is significant or the booking status is unclear, use the Care support or emergency fallback option provided in the app."
+    },
+    {
+        "id": "faq-019",
+        "category": "Safety",
+        "question": "What should I do during a life-threatening emergency?",
+        "answer": "Do not rely only on the Care support chatbot during a life-threatening emergency. Use the official emergency services available in your area or follow the emergency-call option shown in the app."
+    },
+    {
+        "id": "faq-020",
+        "category": "Support",
+        "question": "How can I contact Care support about my booking?",
+        "answer": "Use the Help or Support option associated with your booking to contact Care support for booking-related assistance."
+    }
+]
